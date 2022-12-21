@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>977737550939-kfkhbe8tvdrkjk2n8t2743uclv8uft18.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.977737550939-kfkhbe8tvdrkjk2n8t2743uclv8uft18</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDy9Cewgq6xmH44GN0BOzikCxLFEJ92ydA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>977737550939</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uninsubria.OrinoSmartVillageIOS</string>
+	<key>PROJECT_ID</key>
+	<string>orino-smart-village</string>
+	<key>STORAGE_BUCKET</key>
+	<string>orino-smart-village.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:977737550939:ios:586d577c0b83d4a6c9037e</string>
+	<key>DATABASE_URL</key>
+	<string>https://orino-smart-village-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
