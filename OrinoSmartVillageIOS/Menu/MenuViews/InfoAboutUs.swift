@@ -42,8 +42,3 @@ struct InfoAboutUs: View {
     }
 }
 
-struct InfoAboutUs_Previews: PreviewProvider {
-    static var previews: some View {
-        InfoAboutUs()
-    }
-}

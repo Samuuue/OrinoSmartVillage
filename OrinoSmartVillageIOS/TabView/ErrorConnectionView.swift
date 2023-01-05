@@ -22,8 +22,3 @@ struct ErrorConnectionView: View {
     }
 }
 
-struct ErrorConnectionView_Previews: PreviewProvider {
-    static var previews: some View {
-        ErrorConnectionView()
-    }
-}

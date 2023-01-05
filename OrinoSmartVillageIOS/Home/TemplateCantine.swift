@@ -65,10 +65,3 @@ extension TemplateCantine {
     }
 }
 
-struct TemplateCantine_Previews: PreviewProvider {
-    static var previews: some View {
-        NavigationView {
-            TemplateCantine(image: "image4", title: "Cantina", description: ["DescrizioneGesaTerra", "DescrizioneGesaLegno"], url: URL(string: "https://www.google.it")!)
-        }
-    }
-}

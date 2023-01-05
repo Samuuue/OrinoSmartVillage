@@ -73,12 +73,6 @@ extension MapDirectionView {
     }
 }
 
-struct MapDirectionView_Previews: PreviewProvider {
-    static var previews: some View {
-        MapDirectionView(direction: CLLocationCoordinate2D(latitude: 30.0, longitude: 30.0), transportType: .automobile)
-    }
-}
-
 struct MapViewofDirection: UIViewRepresentable {
     
     @EnvironmentObject private var myLM: myLocationService

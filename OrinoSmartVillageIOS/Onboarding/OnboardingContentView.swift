@@ -66,10 +66,4 @@ struct OnboardingContentView: View {
             .padding(.top, 100.0)
         }
     }
-    
-    struct OnboardingContentView_Previews: PreviewProvider {
-        static var previews: some View {
-            OnboardingContentView(feature: features[0])
-        }
-    }
 }

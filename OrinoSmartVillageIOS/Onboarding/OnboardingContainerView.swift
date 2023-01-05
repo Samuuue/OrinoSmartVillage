@@ -18,9 +18,3 @@ struct OnboardingContainerView: View {
         .edgesIgnoringSafeArea(.all)
     }
 }
-
-struct OnboardingContainerView_Previews: PreviewProvider {
-    static var previews: some View {
-        OnboardingContainerView()
-    }
-}

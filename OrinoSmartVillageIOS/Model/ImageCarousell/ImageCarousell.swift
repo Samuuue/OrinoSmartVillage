@@ -15,8 +15,7 @@ class ImagesCarousell: ObservableObject, Identifiable {
    @Published var images: [UIImage] = []
     
    @Published var showCarousell = false
-    
-    //let imageCache = NSCache<NSURL, UIImage>()
+
     
     var n_Element = 0
     

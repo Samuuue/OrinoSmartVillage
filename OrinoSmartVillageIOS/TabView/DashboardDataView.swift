@@ -14,9 +14,3 @@ struct DashboardDataView: View {
         }
     }
 }
-
-struct DashboardDataView_Previews: PreviewProvider {
-    static var previews: some View {
-        DashboardDataView()
-    }
-}

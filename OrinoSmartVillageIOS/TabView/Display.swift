@@ -97,8 +97,3 @@ struct Display: View {
     }
 }
 
-struct WebView_Previews: PreviewProvider {
-    static var previews: some View {
-        Display(url: URL(string: "https://dash.covid19-italy.it/")!)
-    }
-}

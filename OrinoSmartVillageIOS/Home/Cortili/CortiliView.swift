@@ -1,19 +1,19 @@
 //
-//  ChiesaView.swift
+//  CortiliView.swift
 //  OrinoSmartVillageIOS
 //
-//  Created by Samuele Marelli on 20/12/22.
+//  Created by Samuele Marelli on 04/01/23.
 //
 
 import SwiftUI
 
-struct ChiesaView: View {
+struct CortiliView: View {
     
-    let ripreseChiesa: [stringCard]
+    let ripreseCortili: [stringCard]
     
     var body: some View {
         ScrollView {
-            ForEach(ripreseChiesa) { card in
+            ForEach(ripreseCortili) { card in
                 NavigationLink(destination: PanoramicImage(path: card.label).ignoresSafeArea().padding(.bottom)) {
                     TemplateCardView(label: card.label)
                         .shadow(color: Color("background-header-map"), radius: 16.0)
@@ -23,7 +23,6 @@ struct ChiesaView: View {
                     .padding(.horizontal, 12.0)
             }
         }
-        .navigationTitle("Chiese")
+        .navigationTitle("Cortili")
     }
 }
-

@@ -59,9 +59,3 @@ struct PostView: View {
         })
     }
 }
-    
-struct PostView_Previews: PreviewProvider {
-    static var previews: some View {
-        PostView(post: SinglePost(id: 1, Status: "Pubblicato", Title: "Titolo Prova", Content: "Content", Excerpt: "Excerpt", hasImage: false, Link: URL(string: "https://www.google.it")!))
-    }
-}

@@ -113,9 +113,3 @@ struct DasboardingContainer: View {
         .environmentObject(networkMenager)
     }
 }
-
-struct DasboardingContainer_Previews: PreviewProvider {
-    static var previews: some View {
-        DasboardingContainer()
-    }
-}

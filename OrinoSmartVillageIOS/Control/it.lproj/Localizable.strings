@@ -19,7 +19,8 @@
 "Lingua" = "Lingua";
 "Tema" = "Tema";
 "Notifiche" = "Notifiche";
-"info-condizioni" = "Info app o termini e condizioni";
+"title-info-condizioni" = "Privacy";
+"info-condizioni" = "L'applicazione garantisce la massima riservatezza nella gestione dei dati sensibili dell'utente, tra cui la posizione in tempo reale e l'utilizzo della fotocamera del dispositivo. I dati raccolti vengono trattati in modo sicuro e riservato, in conformità con le normative sulla protezione dei dati personali. Inoltre, l'applicazione fornisce strumenti per gestire le foto già presenti nel dispositivo, consentendo all'utente di scegliere come condividerle e con chi. La privacy è una priorità per noi e ci impegniamo a proteggere i dati dei nostri utenti in ogni momento.";
 "info cariplo" = "Progetto sviluppato dall'Università degli Studi dell'Insubria e dal comune di Orino finanziato dalla Fondazione Cariplo";
 "info progetto" = "Patrimonio storico-naturalistico e nella ricerca di soluzioni innovative per progettare lo sviluppo sostenibile del territorio";
 "label sito menu" = "Sito internet";
@@ -74,3 +75,7 @@ Quando il mosto smetteva di ribollire, si effettuava la svinatura: si separavano
 "orino-360/R0010038_20221020094024.jpg" = "Ripresa chiesa interna San Lorenzo";
 "orino-360/R0010041_20221020094232.jpg" = "Ripresa chiesa esterna San Lorenzo";
 "orino-360/R0010035_20221020093635.jpg" = "Ripresa cortili fuori dal cimitero";
+"orino-360/R0010044_20221020095053.jpg" = "Cortile1";
+"orino-360/R0010046_20221020095229.jpg" = "Cortile2";
+"orino-360/R0010047_20221020095344.jpg" = "Cortile3";
+"orino-360/R0010050_20221020100729.jpg" = "Cortile4";

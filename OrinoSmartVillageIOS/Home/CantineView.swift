@@ -15,12 +15,6 @@ struct CantineView: View {
     }
 }
 
-struct CantineView_Previews: PreviewProvider {
-    static var previews: some View {
-        CantineView()
-    }
-}
-
 struct CantineItem: View {
     
     let name: String

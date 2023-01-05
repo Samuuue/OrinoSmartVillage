@@ -67,8 +67,3 @@ extension ScannView {
     }
 }
 
-//struct ScanView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ScannView()
-//    }
-//}

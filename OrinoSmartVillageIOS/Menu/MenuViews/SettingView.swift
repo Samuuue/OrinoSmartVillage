@@ -49,41 +49,28 @@ struct SettingView: View {
                                 .background(Color("background-picker"), in: RoundedRectangle(cornerRadius: 8, style: .continuous))
                             }
                             .padding(.top, 20.0)
-                            
-                            HStack {
-                                Text(LocalizedStringKey("Notifiche"))
-                                    .font(.system(size: 20.0))
-                                    .padding(.leading, 40.0)
-                                Spacer()
-                                Toggle(isOn: $NotifyIsActive) {
-                                }
-                                    .padding(.trailing, 100.0)
-                            }
-                            .padding(.top, 20.0)
                         }
                         .padding(.top, 30.0)
                         Divider()
                     }
-                    Spacer()
-                    
-                    VStack{
+
+                    VStack(spacing: 15.0){
+                        Text(LocalizedStringKey("title-info-condizioni"))
+                            .multilineTextAlignment(.leading)
+                            .font(.title2)
+                        
                         Text(LocalizedStringKey("info-condizioni"))
+                            .font(.subheadline)
+                            .multilineTextAlignment(.leading)
+                            .padding(.horizontal, 10.0)
                     }
-                    
+                    .padding(.top, 100.0)
                     Spacer()
                 }
             }
         }
         .navigationTitle(String(localized: "Impostazioni menu"))
         .preferredColorScheme(selectedScheme)
-    }
-}
-
-struct SettingView_Previews: PreviewProvider {
-    static var previews: some View {
-        NavigationView {
-            SettingView()
-        }
     }
 }
 

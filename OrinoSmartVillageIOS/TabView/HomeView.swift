@@ -100,8 +100,8 @@ struct PlacesGrid: View {
             NavigationLink(destination: RoccaOrinoView(), label: {
                 SingleGrid(image: "rocca", label: "Rocca di Orino")
             })
-            NavigationLink(destination: Text("Arriverà a breve"), label: {
-                SingleGrid(image: "ecoturismo", label: "Ecoturismo")
+            NavigationLink(destination: CortiliView(ripreseCortili: [stringCard(label: "orino-360/R0010044_20221020095053.jpg"), stringCard(label: "orino-360/R0010046_20221020095229.jpg"), stringCard(label: "orino-360/R0010047_20221020095344.jpg"), stringCard(label: "orino-360/R0010050_20221020100729.jpg")]), label: {
+                SingleGrid(image: "cortili", label: "Cortili")
             })
             NavigationLink(destination: CantineView(), label: {
                 SingleGrid(image: "cantine", label: "Cantine")

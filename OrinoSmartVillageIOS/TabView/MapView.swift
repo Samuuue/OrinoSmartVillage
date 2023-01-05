@@ -58,13 +58,6 @@ struct MapView: View {
     }
 }
 
-//struct MapView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        MapView()
-//            .environmentObject(MapViewModel())
-//    }
-//}
-
 extension MapView {
     
     private var header: some View {

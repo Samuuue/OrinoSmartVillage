@@ -83,9 +83,3 @@ extension RoccaOrinoView {
         })
     }
 }
-
-struct RoccaOrinoView_Previews: PreviewProvider {
-    static var previews: some View {
-        RoccaOrinoView()
-    }
-}

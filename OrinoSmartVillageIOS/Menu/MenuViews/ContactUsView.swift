@@ -59,9 +59,3 @@ struct ContactUsView: View {
         }
     }
 }
-
-struct ContactUsView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContactUsView()
-    }
-}
