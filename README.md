@@ -19,7 +19,7 @@ Spazio di archiviazione: 50mb richiesti all'interno del device
 # Possibili domande
 
 Q: Come posso contattare il supporto dell'applicazione?
-A: Puoi contattarci inviando un'e-mail all'indirizzo [indirizzo e-mail] o utilizzando il modulo di contatto presente nel nostro sito web [indirizzo del sito]. Saremo lieti di aiutarti.
+A: Puoi contattarci inviando un'e-mail all'indirizzo [indirizzo e-mail] o utilizzando il modulo di contatto presente nel nostro sito web https://www.orinosmartvillage.it. Saremo lieti di aiutarti.
 
 Q: Quali sono le politiche sulla privacy dell'applicazione?
 A: Le nostre politiche sulla privacy possono essere trovate [inserire il link alle politiche sulla privacy]. Ti preghiamo di prenderne conoscenza prima di utilizzare l'applicazione.
