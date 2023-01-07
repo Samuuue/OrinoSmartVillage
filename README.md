@@ -14,7 +14,7 @@ L'applicazione sarà scaricabile, ora non ancora presente, nel AppStore, appena 
 L'applicazione richiede i seguenti requisiti minimi di sistema:
 
 Sistema operativo: IOS 16.0 in poi
-Spazio di archiviazione: 50mb richiesti all'interno del device
+\\Spazio di archiviazione: 50mb richiesti all'interno del device
 
 # Possibili domande
 
