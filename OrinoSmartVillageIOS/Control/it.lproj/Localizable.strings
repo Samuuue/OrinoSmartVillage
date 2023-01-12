@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  OrinoSmartVillageIOS
+
+  Created by Samuele Marelli on 16/10/22.
+  
+*/
+"Home" =  "Home";
+"Scann qr" = "Scann QR";
+"Luoghi" = "Luoghi AR";
+"Mappa" = "Mappa";
+"Notizie" = "Notizie";
+"Carousell" = "Carousell";
+"QR code label" = "Clicca il bottone se vuoi fare lo scann al QR code trovato";
+"QR Code button" = "Scansiona QR Code";
+"Carica" = "Carica..";
+"Errore" = "Errore";
+"Alcuni luoghi" = "Alcuni luoghi";
+"Lingua" = "Lingua";
+"Tema" = "Tema";
+"Notifiche" = "Notifiche";
+"title-info-condizioni" = "Termini e Condizioni";
+"info-condizioni" = "L'applicazione garantisce la massima riservatezza nella gestione dei dati sensibili dell'utente, tra cui la posizione in tempo reale e l'utilizzo della fotocamera del dispositivo. I dati raccolti vengono trattati in modo sicuro e riservato, in conformità con le normative sulla protezione dei dati personali";
+"info-condizioni-expanded" = "Inoltre, l'applicazione fornisce strumenti per gestire le foto già presenti nel dispositivo, consentendo all'utente di scegliere come condividerle e con chi. La privacy è una priorità per noi e ci impegniamo a proteggere i dati dei nostri utenti in ogni momento.";
+"info cariplo" = "Progetto sviluppato dall'Università degli Studi dell'Insubria e dal comune di Orino finanziato dalla Fondazione Cariplo";
+"info progetto" = "Patrimonio storico-naturalistico e nella ricerca di soluzioni innovative per progettare lo sviluppo sostenibile del territorio";
+"label sito menu" = "Sito internet";
+"label contattaci menu" = " Contattaci";
+"label su di noi menu" = "Su di noi";
+"label impostazioni menu" = "Impostazioni";
+"Più info" = "Mostra più info";
+"Onboarding1Title" = "Esplora le bellezze del territorio";
+"Onboarding2Title" = "Scansiona i codici QR";
+"Onboarding3Title" = "Iniziamo!";
+"Onboarding1Label" = "Alla scoperta del territorio tra storia, natura e leggenda";
+"Onboarding2Label" = "Ottieni maggiori informazioni scansionando degli appositi codici QR";
+"Onboarding3Label" = "Tocca il pulsante qui sotto per andare alla schermata principale";
+"OnboardingIniziamo" = "Iniziamo";
+"OnboardingSalta" = "Salta";
+"Italiano" = "Italiano";
+"Inglese" = "Inglese";
+"Chiaro" = "Chiaro";
+"Scuro" = "Scuro";
+"AR Title" = "Luoghi visti con la realtà aumentata";
+"Label RoccaOrino" = "La rocca di Orino è un antica fortezza, situata a nord-est del comune a 540 metri di altitudine. Essa giace su di uno sperone roccioso che garantisce un'ottima visisbilità su tutta Valcuvia";
+"MostraSuMappa" = "Mostra sulla mappa";
+"TitoloDirezioni" = "Direzioni";
+"TitleConnection" = "Connessione Assente";
+"AlertTitle" = "Connessione persa";
+"AlertMessage" = "Attiva la connessione dati o controlla il wifi, Una volta ristabilità la connessione la pagina si ricaricherà";
+"AlertDefault" = "Ok";
+"AlertGo" = "Vai impostazioni";
+"DescrizioneBurgett" = "Questo spazio è dedicato alle testimonianze che raccontano il lavoro manuale dalla boscaiolo.
+Governare un bosco significa gestirlo attraverso forme selvicolturali.
+La gestione del bosco era regolamentata dall'uso civico e vigeva l’usanza di gestire il taglio dei fusti del ceppo utilizzando la scure. I fusti tagliati venivano ripuliti da rami e foglie con il falcetto e la roncola. Erano attrezzi sempre a portata di mano, appesi alla cintura da lavoro, accompagnati dalla cote per affilare le lame. I pezzi più grandi venivano ridotti in parti minori utilizzando cunei di ferro e mazze di legno. Si utilizzavano tutte le parti della pianta, anche le foglie secche: queste venivano impiegate come lettiera per la stalla.
+Il legname di maggiori dimensioni veniva trasportato con la barozza, un carro a due ruote anteriori, trainato da una coppia di buoi messi al giogo.
+Per il trasporto dei carichi più leggeri e in presenza di copertura nevosa, si utilizzava la schelcia. Al trasporto presso i cortili, seguiva la preparazione della legna da ardere e del legname da opera.
+Alcune testimonianze presenti nello spazio espositivo sono attrezzi ancora oggi utilizzati per la manutenzione delle selve castanili e più in generale dei boschi. La castanicoltura è infatti ancora attualmente praticata, pur essendosi molto evoluta da fine Ottocento ad oggi.";
+"DescrizioneGesaTerra" = "LAVORO DELLA TERRA. Fino agli anni ’50-’60 Orino disponeva di una distesa di campi intercalati da filari di alberi da frutta e vite. Si coltivavano cereali e diverse varietà orticole.
+La prima fase dei lavori nei campi riguardava la preparazione dei terreni tramite la concimazione: si utilizzavano le latrine dei pozzi neri familiari, il cui contenuto veniva scaricato in una botte, portata a destinazione da un carro. Una volta depositato, si lasciava al terreno il tempo di assorbire il concime, prima della semina. Per rivoltare la terra si utilizzava l’aratro. Dalle testimonianze raccolte sono emersi racconti di coltivazione di segale, avena, orzo, frumento, mais e miglio, in consociazione con ortaggi.
+Si andava a mietere i cereali in squadra, accompagnando il ritmo dei gesti con canzoni: gli attrezzi utilizzati erano la falce messoria, e un’altra falce a manico lungo. I mietitori lavoravano in file: con una mano afferravano gli steli dei cereali e con l’altra impugnavano l’attrezzo. Con un gesto preciso recidevano le fascine. I covoni venivano legati e portati nei cortili per le successive lavorazioni.
+Si utilizzavano tutte le parti dei cereali: dalla spiga si estraevano le cariossidi e del resto della pianta veniva fatta paglia utilizzata nelle stalle. Alla mietitura seguiva la trebbiatura, effettuata nell’aia. Il trebbiatore impugnava il correggiato che, con colpo deciso, distaccava il grano dalla pula.
+A lavoro terminato, per un’ulteriore operazione di pulitura dei cereali si utilizzavano crivelli o ventilabri.";
+"DescrizioneGesaLegno" = "L'ARTIGIANO DEL LEGNO. Nella bottega del falegname era sempre presente il banco da lavoro dotato di morse verticali sui due lati dove si fissavano i pezzi in lavorazione. L'artigiano costruiva da sé o adattava gli attrezzi e per lavorare finemente il legno utilizzava pialle, sgorbie e scalpelli. Nella progettazione dei manufatti impiegava vari strumenti: graffietti, compassi, squadre.
+La cavra era una sorta di panca dotata di un robusto braccio mobile di legno che consentiva di mantenere fermo il pezzo in lavorazione. Stando seduti alla cavra, si decorticavano tronchi, smussavano le superfici del legno, rifinivano gli angoli. Il legname d'opera veniva preparato per le lavorazioni di precisione, sagomandolo con vari tipi di sega. Si utilizzava quella a lama libera, per compiere tagli di forme anche curve, e quella a corda, per preparare tavolati di legno.";
+"DescrizioneMariana" = "La cantina Mariana conserva l'architettura di una stalla: il soffitto a volta, la pavimentazione in beola, la mangiatoia. In questo luogo si trovano testimonianze che raccontano le attività legate all'allevamento animale.
+Gli animali erano elemento fondamentale per l'economia di sussistenza: fornivano energia per trainare i carri e lavorare i campi, offrivano prodotti come latte e derivati, carne, fibre.
+Dell'animale non si buttava via nulla; mentre maiali e galline venivano ricoverati nei sottoscala dei cortili, la stalla accoglieva bovini e ovini in inverno.
+Il calore prodotto dai corpi degli animali rendeva la stalla un luogo ideale per la lavorazione della lana che, era tosata, lavata, cardata e filata con fuso o arcolaio. Il filo, lavorato ai ferri o telaio, si trasformava in capi di abbigliamento, coperte, tappeti.
+La stalla era infine uno dei rarissimi spazi in cui le donne potevano dialogare con una certa libertà durante la giornata e, alla sera, capitava vi si riunisse l’intera famiglia. Nel tepore ci si scambiavano riflessioni sulla giornata che stava finendo e su ritmi di vita e di lavoro che sembravano eterni. In una società dove i libri erano l’eccezione, la cultura orale tramandata dagli anziani trovava la sua scuola ideale proprio nella stalla.";
+"DescrizioneFael" = "Gli oggetti che raccontano il percorso dalla coltivazione dell'uva alla vinificazione sono collocati nella Cantina dul Fael. A Orino era coltivata la vite in filari su terrazzamenti rinforzati da muretti a secco, usati anche per tracciare i confini di proprietà.
+La potatura delle viti avveniva in febbraio, mese in cui si aggiustava la forma della pianta, legando i tralci. Nello stesso periodo si concimava la vigna. A maggio, alle prime foglie, si soffiava sulle piante l'antiparassitario.
+La vendemmia coinvolgeva tutta la famiglia e successivamente si procedeva a pigiare le uve nei tini.
+Nella cantina è presente una tramoggia, usata per schiacciare i grappoli. Il succo derivato dallo schiacciamento dei chicchi fermentava nei tini. Il 'ribollir de' tini' si riferisce al processo di fermentazione a opera dei lieviti presenti nell'aria, che metabolizzano gli zuccheri dell'uva con formazione di alcol etilico e anidride carbonica.
+Quando il mosto smetteva di ribollire, si effettuava la svinatura: si separavano le vinacce e il mosto filtrato veniva versato nelle botti per subito una seconda fermentazione. Le vinacce possono essere pressate col torchio. Le botti per la fermentazione del vino erano costituite da doghe di legno e cerchi di metallo disposti per rinforzare la struttura. Il vino veniva spinato dalle botti per essere consumato o travasato in damigiane o fiaschi";
+"orino-360/R0010038_20221020094024.jpg" = "Ripresa chiesa interna San Lorenzo";
+"orino-360/R0010041_20221020094232.jpg" = "Ripresa chiesa esterna San Lorenzo";
+"orino-360/R0010035_20221020093635.jpg" = "Ripresa cortili fuori dal cimitero";
+"orino-360/R0010044_20221020095053.jpg" = "Cortile1";
+"orino-360/R0010046_20221020095229.jpg" = "Cortile2";
+"orino-360/R0010047_20221020095344.jpg" = "Cortile3";
+"orino-360/R0010050_20221020100729.jpg" = "Cortile4";

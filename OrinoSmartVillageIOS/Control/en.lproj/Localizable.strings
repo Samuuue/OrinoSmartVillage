@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  OrinoSmartVillageIOS
+
+  Created by Samuele Marelli on 16/10/22.
+  
+*/
+"Home" =  "Home";
+"Scann qr" = "Scann QR";
+"Luoghi" = "Place AR";
+"Mappa" = "Map";
+"Notizie" = "News";
+"Carousell" = "Carousell";
+"QR code label" = "Click the button if you want to scan the found QR code";
+"QR Code button" = "Scan QR Code";
+"Carica" = "Loanding..";
+"Errore" = "Error";
+"Alcuni luoghi" = "Some place";
+"Lingua" = "Linguage";
+"Tema" = "Theme";
+"Notifiche" = "Notifications";
+"title-info-condizioni" = "Terms and Conditions";
+"info-condizioni" = "The application guarantees the utmost confidentiality in the management of the user's sensitive data, including real-time location and the use of the device's camera. The collected data is treated securely and confidentially, in accordance with data protection regulations.";
+"info-condizioni-expanded" = "In addition, the application provides tools to manage photos already present on the device, allowing the user to choose how to share them and with whom. Privacy is a priority for us and we are committed to protecting our users' data at all times.";
+"info cariplo" = "Project developed by the University of Insubria and the municipality of Orino financed by the Cariplo Foundation";
+"info progetto" = "Historical-naturalistic heritage and in the search for innovative solutions to plan the sustainable development of the territory";
+"label sito menu" = "Website";
+"label contattaci menu" = "Contact us";
+"label su di noi menu" = "About us";
+"label impostazioni menu" = "Setting";
+"Più info" = "Show more info";
+"Onboarding1Title" = "Explore the beauties of the area";
+"Onboarding2Title" = "Scan QR code";
+"Onboarding3Title" = "Let's begin!";
+"Onboarding1Label" = "Discovering the territory between history, nature and legend";
+"Onboarding2Label" = "Get more information by scanning the appropriate QR codes";
+"Onboarding3Label" = "Tap the button below to go to the main screen";
+"OnboardingIniziamo" = "Start";
+"OnboardingSalta" = "Skip";
+"Italiano" = "Italian";
+"Inglese" = "English";
+"Chiaro" = "Light";
+"Scuro" = "Dark";
+"AR Title" = "Places seen with augmented reality";
+"Label RoccaOrino" = "The Orino fortress is an ancient fortress, located to the northeast of the municipality at 540 metres above sea level. It lies on a rocky spur that guarantees excellent visibility throughout Valcuvia.";
+"MostraSuMappa" = "Show on the map";
+"TitoloDirezioni" = "Directions";
+"TitleConnection" = "Connection Lost";
+"AlertTitle" = "Connessione lost";
+"AlertMessage" = "Activate the data connection or check the wifi, Once the connection is reestablished the page will reload";
+"AlertDefault" = "Ok";
+"AlertGo" = "Open Setting";
+"DescrizioneBurgett" = "This space is dedicated to the testimonies that tell the manual work of the lumberjack.
+Managing a forest means managing it through silvicultural forms.
+The management of the forest was regulated by civic use and it was customary to manage the cutting of the stems of the stump using the ax. The cut stems were cleaned of branches and leaves with the sickle and the billhook. They were tools always at hand, hanging from the work belt, accompanied by the whetstone to sharpen the blades. Larger pieces were cut into smaller pieces using iron wedges and wooden mallets. All parts of the plant were used, even the dry leaves: these were used as litter for the stable.
+The larger timber was transported with the barozza, a cart with two front wheels, pulled by a pair of oxen placed on the yoke.
+For the transport of lighter loads and in the presence of snow cover, the skeleton was used. The transport to the courtyards was followed by the preparation of firewood and wood for work.
+Some testimonies present in the exhibition space are tools still used today for the maintenance of the chestnut woods and more generally of the woods. In fact, chestnut growing is still practiced today, although it has evolved a lot from the late nineteenth century to today.";
+"DescrizioneGesaTerra" = "EARTH WORK. Until the 1950s-1960s, Orino had an expanse of fields interspersed with rows of fruit and vine trees. Cereals and various horticultural varieties were grown.
+The first phase of the work in the fields concerned the preparation of the land through fertilization: the latrines of the familiar cesspools were used, the contents of which were unloaded into a barrel, brought to its destination by a wagon. Once deposited, the soil was allowed time to absorb the fertilizer, before sowing. The plow was used to turn the earth over. From the testimonies collected, stories emerged of the cultivation of rye, oats, barley, wheat, corn and millet, in association with vegetables.
+We went to harvest cereals as a team, accompanying the rhythm of gestures with songs: the tools used were the messoria sickle, and another long-handled sickle. The reapers worked in rows: with one hand they grabbed the stalks of the cereals and with the other they grabbed the tool. With a precise gesture they cut the bundles. The sheaves were tied and taken to the courtyards for subsequent processing.
+All parts of the cereals were used: the kernels were extracted from the ear and the rest of the plant was made straw used in the stables. The harvest was followed by threshing, carried out in the farmyard. The thresher held the flail which, with a decisive blow, detached the wheat from the chaff.
+At the end of the work, sieves or fans were used for a further cleaning of the cereals.";
+"DescrizioneGesaLegno" = "THE WOOD ARTISAN. In the carpenter's workshop there was always a workbench equipped with vertical clamps on both sides where the workpieces were fixed. The craftsman built himself or adapted the tools and used planes, gouges and chisels to work the wood finely. In the design of the artifacts he used various tools: scribes, compasses, squares.
+The cavra was a sort of bench equipped with a sturdy movable wooden arm that allowed the workpiece to be kept still. Sitting on the cavra, they peeled the trunks, smoothed the wood surfaces, finished the corners. The work timber was prepared for precision machining, shaping it with various types of saws. The one with a free blade was used, to make cuts of even curved shapes, and the rope one, to prepare wooden boards.";
+"DescrizioneMariana" = "The Mariana winery preserves the architecture of a stable: the vaulted ceiling, the gneiss flooring, the manger. In this place there are testimonies that tell the activities related to animal breeding.
+Animals were a fundamental element for the subsistence economy: they provided energy to pull wagons and work the fields, they offered products such as milk and derivatives, meat, fibers.
+Nothing was thrown away from the animal; while pigs and chickens were sheltered in the basement of the courtyards, the barn welcomed cattle and sheep in winter.
+The heat produced by the bodies of the animals made the stable an ideal place for the processing of wool which was sheared, washed, carded and spun with a spindle or spinning wheel. The yarn, knitted or loom, was transformed into clothing, blankets, carpets.
+Finally, the stable was one of the very rare spaces where women could converse with a certain freedom during the day and, in the evening, the whole family would gather there. In the warmth we exchanged reflections on the day that was ending and on the rhythms of life and work that seemed eternal. In a society where books were the exception, the oral culture handed down by the elderly found its ideal school in the stable.";
+"DescrizioneFael" = "The objects that tell the path from the cultivation of grapes to winemaking are placed in the Cantina dul Fael. In Orino the vines were cultivated in rows on terraces reinforced by dry stone walls, also used to trace the property boundaries.
+The pruning of the vines took place in February, the month in which the shape of the plant was adjusted, tying the shoots. In the same period the vineyard was fertilized. In May, at the first leaves, the pesticide was blown on the plants.
+The harvest involved the whole family and then the grapes were pressed in the vats.
+In the cellar there is a hopper, used to crush the grapes. The juice derived from the crushing of the grains fermented in vats. The 'ribollir de 'tini' refers to the fermentation process by the yeasts present in the air, which metabolize the sugars of the grapes with the formation of ethyl alcohol and carbon dioxide.
+When the must stopped bubbling, the racking was carried out: the marc was separated and the filtered must was poured into the barrels for a second fermentation. The pomace can be pressed with a press. The wine fermentation barrels consisted of wooden slats and metal circles arranged to reinforce the structure. The wine was barbed from the barrels to be consumed or decanted in demijohns or flasks.";
+"orino-360/R0010038_20221020094024.jpg" = "External shot of the church of San Lorenzo";
+"orino-360/R0010041_20221020094232.jpg" = "Internal shot of the church of San Lorenzo";
+"orino-360/R0010035_20221020093635.jpg" = "Shooting courtyards outside the cemetery";
+"orino-360/R0010044_20221020095053.jpg" = "Cortile1";
+"orino-360/R0010046_20221020095229.jpg" = "Cortile2";
+"orino-360/R0010047_20221020095344.jpg" = "Cortile3";
+"orino-360/R0010050_20221020100729.jpg" = "Cortile4";
+
